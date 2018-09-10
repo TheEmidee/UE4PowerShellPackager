@@ -1,6 +1,8 @@
 Powershell scripts to ( Build / Cook / Package / Archive / Patch ) Unreal Engine Projects
 
-Usage : Call `.\Utils\Package.ps1` with the following mandatory arguments (with the authorized values):
+**Usage**
+
+Call `.\Utils\Package.ps1` with the following mandatory arguments (with the authorized values):
 -Action : "BuildEditor", "Build", "Cook", "BuildCook", "BuildCookArchive", "Patch"
 -Platform : "Win64", "XboxOne", "PS4", "Switch"
 -Configuration: "Development", "Debug", "Shipping"
