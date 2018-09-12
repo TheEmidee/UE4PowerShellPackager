@@ -1,3 +1,5 @@
+***See https://github.com/Zoubi/UE4Packager for a more complete and multi platforms implementation in Python***
+
 Powershell scripts to ( Build / Cook / Package / Archive / Patch ) Unreal Engine Projects
 
 **Usage**
